@@ -49,3 +49,7 @@ https://github.com/moqri/311/blob/master/311_crime.ipynb
 
 ### Demo
 http://bear.warrington.ufl.edu/analyticslab/311/311_aggregation.html
+
+## Issues
+When you encounter an issue, please use the issue button on this page and submit an issue first
+Then, if you could find the fix, please send me a pull requst. If you can't find the solution, I'll to my best to address the issue
