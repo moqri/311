@@ -1,5 +1,5 @@
 # 311 - A Real-life Data Science Project 
-## Credit of Data Smart City Colution - Ash Center at Harvard Kenedy School (http://datasmart.ash.harvard.edu/)
+#### A Project of Data Smart City Colution - Ash Center at Harvard Kenedy School (http://datasmart.ash.harvard.edu/)
 
 # Objective
 The city of Somerville, MA is among the leading innovators for 311 services in the US. While a small city, the customer-service approach, passion for advancing the public good and willingness to try new things set Somerville 311 apart from its peers. Somerville recently created a regional 311 administrators network for other small and mid-sized cities in the Boston region. Participants include Chelsea, Malden, Revere, Everett, Cambridge and others. This network is seeking a research partner for a pro bono (or nominal stipend) research project. The ideal candidate is a graduate student seeking a summer project or a fall 2017 research project. A researcher completing a summer project may be invited to present at the inaugural Harvard Data-Driven Government Conference in November 2017. 
