@@ -18,8 +18,28 @@ https://raw.githubusercontent.com/moqri/311/master/311_Constituent_Services_Dail
 
 # Analysis
 ## Step 1: Standardization
-At this stage we need to standardize the data so that our analysis could be replicated for other cities in future
+At this stage we standardize the data so that our analysis could be replicated for other cities in future
 ### Code
 https://github.com/moqri/311/blob/master/311_transformation.ipynb
 
 To open the code you need to have Jypouter Notebook installed
+Demo: http://bear.warrington.ufl.edu/analyticslab/311/311_transformation.html
+
+## Step 2: Exploration
+At this stage, we explore and visualize the data to understand the context and find interesting patterns in the data
+### code
+https://github.com/moqri/311/blob/master/311_exploration.ipynb
+
+Demo: http://bear.warrington.ufl.edu/analyticslab/311/311_exploration.html
+
+## Step 3: Aggregation
+At this stage, we aggregate the data based on time and lcoation
+### code
+https://github.com/moqri/311/blob/master/311_aggregation.ipynb
+
+## Step 4: Correlation
+At this stage, we add the crime data and see if there is any correlation between 311 reports and crime
+### code
+https://github.com/moqri/311/blob/master/311_crime.ipynb
+
+Demo:http://bear.warrington.ufl.edu/analyticslab/311/311_aggregation.html
