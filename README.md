@@ -9,6 +9,7 @@ Key questions:
 • What 311 call types are predictors of violent crime? (311 call types that are correlated with violent crime (homicide, rape, robbery, aggravated assault) occurring after the 311 call with a lag of 1 week to 1 month) for a city? For a neighborhood?
 
 # Preparation
+0. Create a Github account and fork this project
 1. Install Python 2.7
 2. Add Python Pandas Package
 3. Install Jupyter Notebook
