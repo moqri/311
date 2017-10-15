@@ -1,4 +1,4 @@
-# 311 - A Real-life Data Science Project 
+# 311 - A Real-world Data Science Project 
 #### A Project of Data Smart City Colution - Ash Center at Harvard Kenedy School (http://datasmart.ash.harvard.edu/)
 
 # Objective
