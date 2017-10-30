@@ -6,7 +6,8 @@ The city of Somerville, MA is among the leading innovators for 311 services in t
 The purpose of the research project is to use open data available in Somerville and many other cities, to answer the following questions:
 Key questions:
 • What 311 call types are predictors of property crime? (311 call types that are correlated with property crime (burglary, larceny, motor vehicle theft) occurring after the 311 call with a lag of 1 week to 1 month) for a city? For a neighborhood? 
-• What 311 call types are predictors of violent crime? (311 call types that are correlated with violent crime (homicide, rape, robbery, aggravated assault) occurring after the 311 call with a lag of 1 week to 1 month) for a city? For a neighborhood?
+• What 311 call types are predictors of violent crime? (311 call types that are correlated with violent crime (homicide, rape, robbery, aggravated assault) occurring after the 311 call with a lag of 1 week to 1 month) for a city? For a neighborhood? 
+Credit: Jane Wiseman (http://datasmart.ash.harvard.edu/authors/jane-wiseman) 
 
 # Preparation
 0. Create a Github account and fork this project
