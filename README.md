@@ -1,12 +1,14 @@
-# 311 - A Real-world Data Science Project 
-#### A Project of Data Smart City Colution - Ash Center at Harvard Kenedy School (http://datasmart.ash.harvard.edu/)
+# 311 Open Data Analytics - A Real-world Data Science Project 
+#### A Project initiated by Data Smart City Colution (http://datasmart.ash.harvard.edu/)
 
 # Objective
 The city of Somerville, MA is among the leading innovators for 311 services in the US. While a small city, the customer-service approach, passion for advancing the public good and willingness to try new things set Somerville 311 apart from its peers. Somerville recently created a regional 311 administrators network for other small and mid-sized cities in the Boston region. Participants include Chelsea, Malden, Revere, Everett, Cambridge and others. This network is seeking a research partner for a pro bono (or nominal stipend) research project. The ideal candidate is a graduate student seeking a summer project or a fall 2017 research project. A researcher completing a summer project may be invited to present at the inaugural Harvard Data-Driven Government Conference in November 2017. 
 The purpose of the research project is to use open data available in Somerville and many other cities, to answer the following questions:
 Key questions:
 • What 311 call types are predictors of property crime? (311 call types that are correlated with property crime (burglary, larceny, motor vehicle theft) occurring after the 311 call with a lag of 1 week to 1 month) for a city? For a neighborhood? 
-• What 311 call types are predictors of violent crime? (311 call types that are correlated with violent crime (homicide, rape, robbery, aggravated assault) occurring after the 311 call with a lag of 1 week to 1 month) for a city? For a neighborhood?
+• What 311 call types are predictors of violent crime? (311 call types that are correlated with violent crime (homicide, rape, robbery, aggravated assault) occurring after the 311 call with a lag of 1 week to 1 month) for a city? For a neighborhood? 
+
+Credit: Jane Wiseman (http://datasmart.ash.harvard.edu/authors/jane-wiseman) 
 
 # Preparation
 0. Create a Github account and fork this project
