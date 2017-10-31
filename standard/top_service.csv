@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7,8
+Schedule a Bulk Item Pickup,"""Metal Furniture, Spec Collectn""",Bulky Items,HIGH GRASS WEEDS,Trash,Information Request,Noise - Residential,Information Request,Pothole
+Requests for Street Cleaning,"""Tall grass/weeds, private prop""",Graffiti Removal,DAMAGE GARB CART,Property Violations,Maintenance Residential or Commercial,HEAT/HOT WATER,Maintenance Residential or Commercial,Abandoned Vehicle
+Request for Snow Plowing,"""Trash, request for collection""",Metal/Household Appliances,TRASH PVT PROP,Animal,Rubbish/Recyclable Material Collection,Illegal Parking,Rubbish/Recyclable Material Collection,Graffiti
+Parking Enforcement,"""Pothole, repair""",Illegal Dumping Pickup,EXTERIOR VIOL,Water Leak,Illegal Dumping,Blocked Driveway,Illegal Dumping,Other
+Request for Pothole Repair,"""Building, residential""",Electronic Waste,STREET POTHOLE,Trash / Recycling,Abandoned Vehicle,Street Condition,Abandoned Vehicle,Illegal Dumping
+Pothole Repair (Internal),"""Litter, private property""",Homeless Encampment,GARBAGE MISSED,Trees,Directory Assistance,Street Light Condition,Directory Assistance,Street Light
+Street Light Outages,"""Yard waste,rtc""",Dead Animal Removal,ABANDON VEHICLE,Nuisance Violations,Graffiti Removal,UNSANITARY CONDITION,Graffiti Removal,Traffic Signal
+Sidewalk Repair (Make Safe),"""Tires, Special Collection""",Other,DEAD ANIMAL,Animals / Pets,Street Defect,Noise - Street/Sidewalk,Street Defect,Sidewalk
+Schedule Bulk Item Pickup,"""Graffiti, removal""",Single Streetlight Issue,MISCELLANEOUS,Property / Buildings / Construction,Street Light Outage,Water System,Street Light Outage,Traffic Sign
+Tree Maintenance Requests,"""Dead animal""",Multiple Streetlight Issue,RECYCLE BINS,Bulky Appointment,Vacant Lot Clean-Up,Noise,Vacant Lot Clean-Up,Tree Hazard
+Sign Repair,"""Trash, improper set out""",Report Water Waste,STOLEN GARB CART,Public Works,Vacant House or Commercial,PAINT/PLASTER,Vacant House or Commercial,Curb
+Unsatisfactory Living Conditions,"""Building, concentratd code enf""",Feedback,VEHICLE PVT PROP,Property & Nuisance Violations,Salting,PLUMBING,Salting,Storm Drain
+Request for Recycling Cart,"""Recycling, new 96 gallon cart""",,ILLEGAL DUMPING,Snow & Ice,Sanitation / Dumpster Violation,Noise - Commercial,Sanitation / Dumpster Violation,Street Sweeping
+Graffiti Removal,"""Trash cart, registration""",,INTERIOR VIOL,Street Light,Street Trees,Traffic Signal Condition,Street Trees,Faded striping
+Abandoned Vehicles,"""Slippery streets, request""",,LIGHTING REPAIR,Sewer,Traffic Signal Emergency,Sewer,Traffic Signal Emergency,Dead Animal
+Pick up Dead Animal,"""Trash cart, swap 95 gallon""",,VAP STRUC WEEDS,Vehicle,Building Dangerous,DOF Literature Request,Building Dangerous,Street Flooded
+Rodent Activity,"""Sign, down/missing """,,SIGNAGE REPAIR,Water,Construction Site Task Force,Sanitation Condition,Construction Site Task Force,Damaged Guardrail
+CE Collection,"""Building, fire escape insp""",,TRAF SIGNAL REPR,Mowing / Weeds,Smoke Detector,Rodent,Smoke Detector,Parking Meter
+Improper Storage of Trash (Barrels),"""Signal, traf/ped/school repair""",,NEW RECYCLE CART,Streets / Roadways / Alleys,Building Construction,Dirty Conditions,Building Construction,Illegal discharge
+Building Inspection Request,"""Default, police (and junk veh)""",,YARD WASTE MISS,Storm Water / Sewer,Other (Streets),DOOR/WINDOW,Other (Streets),Over Irrigation
+Sticker Request,"""Building, vacant and open res """,,OVERGROWTH,Storm Water,Zoning Business,Derelict Vehicle,Zoning Business,
+Traffic Signal Repair,"""Trash cart, new 65 gallon""",,TRAFFIC CONCERN,Pothole,Miscellaneous,WATER LEAK,Miscellaneous,
+Traffic Signal Inspection,"""Trash, tagged collections""",,RECYCLING MISSED,Weeds,Alley Light Outage,Missed Collection (All Materials),Alley Light Outage,
+Unshoveled Sidewalk,"""Annual - c annual insp""",,JUNK VIOLATION,Vehicles / Parking,Fire Residential or Commercial,Derelict Vehicles,Fire Residential or Commercial,
+New Tree Requests,"""Street cleaning""",,STREET HAZARD,Street Sign,Inlet Cleaning,General Construction/Plumbing,Inlet Cleaning,
+Animal Generic Request,"""Mold, building or apartment""",,PARK MAINTAIN,Maintenance,Dangerous Sidewalk,Noise - Vehicle,Dangerous Sidewalk,
+Empty Litter Basket,"""Recycling, request to collect""",,ZONING CONCERNS,Lights / Signals,Traffic (Other),Building/Use,Traffic (Other),
+Tree Emergencies,"""Dumping, prv prop <2500 sq ft""",,MOSQUITOS,Signal,Parks and Rec Safety and Maintenance,ELECTRIC,Parks and Rec Safety and Maintenance,
+Sidewalk Repair,"""Recycling, new 64 gallon cart""",,SIDEWALK REPAIR,Signs,License Residential,GENERAL,License Residential,
+Poor Conditions of Property,"""Building, vacant and open res""",,TRAF SIG TIMING,Water Services,Zoning Residential,FLOORING/STAIRS,Zoning Residential,
+Other: Complaint,"""Special collections, rtc""",,VAP LOT WEEDS,Traffic Study,No Heat (Residential),Homeless Person Assistance,No Heat (Residential),
+Heat - Excessive  Insufficient,"""Light, repair""",,JUNK MISSED,Water Quality,Complaint (Streets),Benefit Card Replacement,Complaint (Streets),
+PWD Graffiti,"""Vehicle, abandon priv p access""",,VAP EXTERIOR,Health,Building Force,Damaged Tree,Building Force,
+New Sign  Crosswalk or Pavement Marking,"""Tall grass/weeds, PS property""",,STREET REPAIR,Traffic Sign,Shoveling,Snow,Shoveling,
+Work w/out Permit,"""Corner can, overflowing""",,NJUNK WEEK,Park,Dead Animal in Street,New Tree Request,Dead Animal in Street,
+Unsafe/Dangerous Conditions,"""Service complaint, trash""",,GARBAGE VIOLATIO,Sidewalk,Stop Sign Repair,DOF Property - Reduction Issue,Stop Sign Repair,
+Recycling Cart Return,"""Recycling, remove cart""",,STOP SIGN REPAIR,Zoning,Infestation Residential,Consumer Complaint,Infestation Residential,
+Equipment Repair,"""Restaurant consult, new lic""",,STREET TREE,Sidewalks / Curbs / Ditch,Boarding Room House,Graffiti,Boarding Room House,
+Highway Maintenance,"""Trash cart, missing 65 gallon""",,SIGNAGE NEW,Public Health,Street Paving,Maintenance or Facility,Street Paving,
+Electrical,"""Light loader, infested collctn""",,NEW GARBAGE CART,Parks & Recreation,Manhole Cover,Taxi Complaint,Manhole Cover,
+Front Desk Interactions,"""Tree, dead on priv prop stndrd""",,REPORT LITTERER,Graffiti,Hydrant Request,Overgrown Tree/Branches,Hydrant Request,
+Missing Sign,"""Sign, street sign faded""",,RAT BAITING,Right of Way,Line Striping,Electronics Waste,Line Striping,
+PRINTED,"""Roaches - bldg or apartment""",,GRAFFITI PVTPROP,Ditch,Other Dangerous,Elevator,Other Dangerous,
+General Lighting Request,"""Default, City""",,ROADSIDE LITTER,City Managers Office,Tree Dangerous,APPLIANCE,Tree Dangerous,
+Other: Comment,"""Unsanitary living conditions""",,LITTER BASKETS,Permit,LI Escalation,Broken Muni Meter,LI Escalation,
+Contractor Complaints,"""Yard waste, tagged collections""",,SIDEWALK OBSTRUC,Food Protection,Abandoned Bike,Food Establishment,Abandoned Bike,
+Space Savers,"""Sidewalk, repair haz""",,STREET RESURFACE,Downtown Parking,Police Complaint,Dead/Dying Tree,Police Complaint,
+Needle Pickup,"""Trash cart, new 95 gallon""",,SMOKE DETECTOR,Capital Projects,Complaints against Fire or EMS,Non-Emergency Police Matter,Complaints against Fire or EMS,
+PublicWorks: Complaint,"""Trash cart, swap 35 gallon""",,PESTS,Street,Daycare Residential or Commercial,Lead,Daycare Residential or Commercial,
+Missed Trash: District 07,"""Parking, grass front yd res""",,GRAFFITI,Cleaning,Newsstand Outdoor Cafe,Animal Abuse,Newsstand Outdoor Cafe,
